@@ -1,0 +1,27 @@
+.top {
+    width: 100%;
+    height: 80px;
+
+    background-color: darkgoldenrod;
+}
+.under {
+    width: 100%;
+    height: 615px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.under .under__col1 {
+    width: 100%;
+    height: 615px;
+
+  background-color: aquamarine;
+}
+
+.under .under__col2 {
+    width: 100%;
+    height: 615px;
+
+    background-color: blueviolet;
+}
